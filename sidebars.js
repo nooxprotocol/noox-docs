@@ -35,8 +35,8 @@ const sidebars = {
   {
     'Noox Badge': [
       'learn/badge',
-      'learn/miup',
-      'learn/miup2',
+      'learn/upgrade',
+      'learn/migrate',
     ],
   },
   // {

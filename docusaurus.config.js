@@ -6,9 +6,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Okay',
-  tagline: 'docstest',
-  url: 'https://ryujjam.xyz',
+  title: 'Noox Docs',
+  tagline: 'Your all-in-one resources for Noox',
+  url: 'https://noox.world',
   baseUrl: '/',
   onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
@@ -16,8 +16,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'vandal0x', // Usually your GitHub org/user name.
-  projectName: 'deploytest', // Usually your repo name.
+  organizationName: 'nooxprotocol', // Usually your GitHub org/user name.
+  projectName: 'noox-docs', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
