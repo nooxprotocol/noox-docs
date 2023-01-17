@@ -75,6 +75,11 @@ Be sure to check the “How to claim’ and ‘How do we validate’ listed on t
 For most, less than 5 seconds. But it may take up to 3 minutes depending on the complexities of the badge conditions being verified.
 <br class="in" />
 
+### How can I view my eligibility progress for a particular achievement on Noox?
+
+You can check your eligibility progress for each badge by clicking “Check eligibility”.
+<br class="in" />
+
 ### How long does it take to claim a badge?
 
 When you claim a badge, you are minting an NFT on the Ethereum blockchain. The process of minting a badge is completed once the transaction is confirmed. On average, the process will take approximately 15~30 seconds.
